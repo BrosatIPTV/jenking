@@ -20,9 +20,9 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.
 #https://cdn-laos.workpoint.news/my-asp4_720/index.m3u8
 #EXTINF:-1  tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA",RTB
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/HkbWYhR8/IMG-20200511-013143.jpg" group-title="MALAYSIA",SURIA
+#EXTINF:-1  tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA",SURIA
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/HkbWYhR8/IMG-20200511-013143.jpg" group-title="MALAYSIA",RTM 1 HD
+#EXTINF:-1  tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA",RTM 1 HD
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="MALAYSIA",RTM 2 HD
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
