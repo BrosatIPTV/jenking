@@ -210,3 +210,430 @@ http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=54899939&ct=18190&tsum=730b03822
 
 http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
 
+===========================
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Asia",3ABN Kids 
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",8TV
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",9X0
+https://streamer-1.toffeelive.com/live/9xo_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",ABP Ananda
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",ACC Network/ACC_Network_ESPN_logo.svg/1000px-ACC_Network_ES
+https://gma2.blab.email/acc.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Akash Aath
+https://streamer-1.toffeelive.com/live/akash_aath_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",AMC
+http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",And Tv
+https://streamer-1.toffeelive.com/live/ntv_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Animal Planet
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Astro Ceria
+http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=mfabd35f3f60610763675&ct=17913&tsum=83045199eb5a761e7e547c2ecd825d21
+#EXTINF:-1 tvg-logo="" group-title="Asia",Astro Citra
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
+#EXTINF:-1 tvg-logo="" group-title="Asia",Astro Naura
+https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Astro Oasis
+http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=m70290ab09fb91755596&ct=17945&tsum=6ed99f164db0c90030ce10756604b757
+#EXTINF:-1 tvg-logo="" group-title="Asia",Astro Ria
+http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m70290ab09fb91755596&ct=18050&tsum=d75d08716e962b3d0dc2b8d82ecd0135
+#EXTINF:-1 tvg-logo="" group-title="Asia",Astro Warna
+http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m70290ab09fb91755596&ct=18078&tsum=40cd2f4a1d02c820fe6c44e2080c3e5f
+#EXTINF:-1 tvg-logo="" group-title="Asia",ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Australia Plus
+https://streamer-1.toffeelive.com/live/australia_plus_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",AXN
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",B4U Movies
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",B4U Music
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",B4U Plus
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Baby Fist
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Baby TV
+http://livecdnh1.tvanywhere.ae/hls/baby/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Bangla Time
+http://streamidvo.multitvsolution.in/BanglaTimeTV-f/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",BBC News
+http://203.153.218.28:9981/stream/channelid/861591723?ticket=E2F6DF7B28DB78ACF098DD1AA2973F5451ADA8A7&profile=pass
+#EXTINF:-1 tvg-logo="" group-title="Asia",BBC News
+http://51.52.156.22:8888/http/004
+#EXTINF:-1 tvg-logo="" group-title="Asia",Bflix
+https://streamer-1.toffeelive.com/live/bflix_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Bloomberg Asia
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Bloomberg HT
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Bloomberg US
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="" group-title="Asia",Bollywood HD
+https://a.jsrdn.com/broadcast/j4jhsgg89/c.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Bollywood TV
+http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Boomerang
+http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",CBS News
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",CCTV 4 HD
+http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",CGTN Español
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",CGTN Français
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",CH U
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",CH5
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",CH8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Channel 9
+http://telelivetv.webredirect.org:8081/globeworld2020/channel9/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Channel S
+https://ap01.iqplay.tv:81/iqb8002/ch4n3ls.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Channel S USA
+https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0800/c.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Channel T1
+http://128.199.212.160/channelt1/1080/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Cheddar
+https://live.chdrstatic.com/cheddar/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Cheddar Big News
+https://live.chdrstatic.com/cbn/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",CNA
+https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Colors Bangla
+http://telelivetv.webredirect.org:8081/globeworld2020/colorsbangla/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Crime & Investigation
+http://203.154.243.31:15001
+#EXTINF:-1 tvg-logo="" group-title="Asia",DD Bangla
+http://streamidvo.multitvsolution.in/DDBangla-c/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",DD Bangla
+https://streamer-1.toffeelive.com/live/dd_bangla_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Deepto TV
+http://telelivetv.webredirect.org:8081/globeworld2020/deepto/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Deshi TV
+http://72.139.72.18:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Dil Se
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Discovery
+http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Discovery Science
+http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Discovery Sports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Discovery Turbo
+http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Docubox
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Drama Sangat
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",E!
+http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",English Club
+http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",English Club
+http://livecdnh2.tvanywhere.ae/hls/english_club/02.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Euronews
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",GTN Россия
+https://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",GTV
+http://telelivetv.webredirect.org:8081/globeworld2020/gazitv/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",History
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Hum Masala
+https://streamer-1.toffeelive.com/live/hum_masala_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Iflim English
+https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Investigation Discovery
+http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Investigation Discovery
+http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Iqar Bangla
+https://ap01.iqplay.tv:81/iqb8002/iq53la.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",K2
+http://livecdnh1.tvanywhere.ae:80/hls/k2/04.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Khushboo TV
+http://streamidvo.multitvsolution.in/KHUSHBOO-f/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Lotus M
+https://streamer-1.toffeelive.com/live/lotus_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Maha Movie
+http://streamidvo.multitvsolution.in/MahaMovie-e/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",MBC 1
+http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",MBC 2
+http://livecdnh3.tvanywhere.ae:80/hls/mbc2/05.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",MBC 3
+http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",MBC 4
+http://livecdnh3.tvanywhere.ae:80/hls/mbc4/05.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",MBC Action
+http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/05.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",MBC Bollywood
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/04.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",MBC Drama
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",MBC Max
+http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",MGM Scifi
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Monarch TV
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Movies Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Mylife4U
+https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",N24 NTV Japan
+http://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",News Time Bangla
+http://streamidvo.multitvsolution.in/NewsTimeBangla-c/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",NTV USA
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",NTV7
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",OKEY
+https://rtm2hdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",OKTO
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Orange Bangla
+http://streamidvo.multitvsolution.in/OrangeTV-b/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",OSN Cinema 1
+http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",OSN Music Now
+http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Outside TV
+https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",People TV
+https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Pop Pataka
+https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Provashi Bangla
+http://vod.beeiptv.com:8081/vod/probashibangla/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",R Plus Gold
+http://streamidvo.multitvsolution.in/RPlusGold-e/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Racing Vic
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Real M Tv
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",RETRO TV
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",RT Español
+http://rt-esp.secure.footprint.net:80/1102_2500Kb.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",RT Français
+http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",RTM 1 HD
+https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Sangeet Bangla
+http://telelivetv.webredirect.org:8081/globeworld2020/sangeetbangla/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",SEC Network
+https://gma2.blab.email/sec.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Shemaroo Bollywood Premier
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Shemaroo Hindi
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Sky Folk TV
+http://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Sky Folk TV
+http://skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Sony Aath
+http://telelivetv.webredirect.org:8081/globeworld2020/sonyaath/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Sony Aath
+https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Sony ETV
+https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Sony Max
+http://216.144.250.174:80/Sony_MaX_HD_02/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Sony Max 2
+http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Sony Mix
+http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Sony Mix
+http://216.144.250.174:80/Sony_Mix_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Sony Pix
+https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Sony SAB
+https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Sony TV
+https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Sony TV
+http://216.144.250.174:80/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Sony Yay
+https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Spacetoon
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/03.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Spydar TV
+https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Star Jalsha
+http://telelivetv.webredirect.org:8081/globeworld2020/starjalsha/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Star Jalsha Movies
+http://telelivetv.webredirect.org:8081/globeworld2020/starjalshamovies/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Star Movies
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Star Movies
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Star Plus HD_India
+http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Star Plus UK
+http://216.144.250.174:80/Star_Plus_HD_UK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Star Vijay HD
+http://216.144.250.174/Star_VIjay_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Star World
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Star World
+http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",SURIA
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Telesur
+http://d2ajt1gpdtnw25.cloudfront.net:80/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Telesur English
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",The Q
+https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Times Now
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",TJK
+https://tjktv.ercdn.net/tjktv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",TLC
+http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",TRT World
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",TV9
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Unknown 0
+http://188.35.9.26:11051/udp/127.0.0.1
+#EXTINF:-1 tvg-logo="" group-title="Asia",Unknown 21
+http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Unknown 30
+http://flash1.broadcastindo.net/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Unknown 38
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Up Movie Stream
+http://27.254.149.109:8081/live/upmovie.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",UTV
+https://icable.cdn.utvhk.com/live/2a663abfe6e6444881be6ff11207a63f/6800ef3fa1ba42fbb2fe86aebbaf318f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",V2BEATHD
+http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",VASANTHAM
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Voice of America
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",vtv1
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv1-high.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",vtv2
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv2-high.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",vtv4
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv4-high.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",vtv5
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv5-high.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",vtv7
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv7-high.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",vtv8
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv8-high.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Weather Channel
+https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",WeatherNation TV
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u
+#EXTINF:-1 tvg-logo="" group-title="Asia",World Fashion TV
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",World of Free Sports
+https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Wow Music
+http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Xcorps
+http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Z Etc
+https://streamer-1.toffeelive.com/live/z_etc_bollywood_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Zee Action
+https://streamer-1.toffeelive.com/live/zee_action_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Zee Bangala Cinema
+https://streamer-1.toffeelive.com/live/zee_bangla_cinema_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Zee Bangla
+http://livecdnh1.tvanywhere.ae/hls/zee_bangla/04.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Zee Bangla Cinema
+http://telelivetv.webredirect.org:8081/globeworld2020/zeebanglacinema/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Zee TV
+https://streamer-1.toffeelive.com/live/zee_tv_hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Zeta
+http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Zing
+http://livecdnh1.tvanywhere.ae/hls/zing/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Asia",Zoom
+http://livecdnh1.tvanywhere.ae/hls/zoom/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QSpo8vs.png" group-title="Radio",Hitz FM
+http://astro1.rastream.com/hitz?type=mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xam3eEu.png" group-title="Radio",ERA FM
+http://astro2.rastream.com/era
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mzwePdy.png" group-title="Radio",Hot FM
+http://mediaprima.rastream.com/mediaprima-hotfm.android
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kfxMEtu.png" group-title="Radio",Loker Musik Indonesia
+http://live.lokermusik.com:8142/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/31sPnFt.png" group-title="Radio",Ceria FM
+http://172.83.43.162:8080/stream/;
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UW5GT3K.png" group-title="Radio",NAGASWARA FM RADIOTEMEN
+https://live.nagaswarafm.com:9900/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X0WX6e5.png" group-title="Radio",Kool FM
+http://mediaprima.rastream.com/mediaprima-koolfm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rM6lve5.png" group-title="Radio",Lite FM
+http://astro1.rastream.com/lite?type=mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vBpMWtb.png" group-title="Radio",NAGASWARA POP
+https://live.nagaswarafm.com:9100/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/01W3Jqd.png" group-title="Radio",NAGASWARA DANCEDHUT
+https://live.nagaswarafm.com:9200/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvDw00J.png" group-title="Radio",Sinar FM
+http://astro2.rastream.com/sinar?type=mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZZ3F5ol.png" group-title="Radio",Mix FM
+http://astro2.rastream.com/mix?type=mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IDT3v0z.png" group-title="Radio",Fly FM
+http://mediaprima.rastream.com/mediaprima-flyfm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sNjTEfv.png" group-title="Radio",Best FM
+http://s8.voscast.com:8686/;stream1524468271750/1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JY3egKj.png" group-title="Radio",My FM
+http://astro1.rastream.com//myfm?type=mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bg8IaNy.png" group-title="Radio",Melody FM
+http://astro3.rastream.com/melody?type=mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rPE3cRJ.png" group-title="Radio",Cats FM
+http://catsfm64.cspixel.com:7111/stream/;
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zBeUWUZ.png" group-title="Radio",Siaraya FM
+http://starrfm.rastream.com/starrfm-suria
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4PmVh1.png" group-title="Radio",Warna FM
+https://19043.live.streamtheworld.com/WARNA942FMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5QO4LBi.png" group-title="Radio",Ria FM
+https://19183.live.streamtheworld.com/RIA897FMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3uIE6LN.png" group-title="Radio",Kristal FM
+http://202.152.73.2:801/kfm
+
