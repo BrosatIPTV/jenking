@@ -133,3 +133,235 @@ http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv3_my.png",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://aputra.xyz/epg/Indosiar.id.png" group-title="LOKAL PILIHAN", INDOSIAR
+http://210.210.155.35/session/ff18590a-f07e-11eb-bf8c-8f4a94747fdb/qwr9ew/s/s04/01.m3u8
+http://nonton.wap.sh/id/002.m3u8
+
+#EXTINF:-1 tvg-logo="http://aputra.xyz/epg/MNC.mn.png" group-title="LOKAL PILIHAN", MNCTV
+http://zalogitv.tech:8080/oktavia/oktavia/1317
+https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-870
+
+#EXTINF:-1 tvg-logo="http://aputra.xyz/epg/ANTV.id.png" group-title="LOKAL PILIHAN", ANTV
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+
+#EXTINF:-1 tvg-logo="http://aputra.xyz/epg/SCTV.id.png" group-title="LOKAL PILIHAN", SCTV
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN", RCTI
+https://gpc.my.id/vidio/rcti.m3u8
+https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-665
+
+#EXTINF:-1 tvg-logo="http://aputra.xyz/epg/gtv.png" group-title="LOKAL PILIHAN",GTV
+http://zalogitv.tech:8080/oktavia/oktavia/1318
+https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-778
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN", TVONE
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN", TRANS7HD 
+http://www.goldentv.tech:25461/Gratisan2/2021/23270
+
+#EXTINF:-1 tvg-logo="http://aputra.xyz/epg/TransTV.id.png" group-title="LOKAL PILIHAN", TRANSTVHD
+http://www.goldentv.tech:25461/Gratisan2/2021/23272
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN", Net TV
+http://dituduhmaling.xyz/US33T4/net.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN",iNews
+https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-5409
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN", RTV
+http://210.210.155.35/qwr9ew/s/s12/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN", KOMPAS TV
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN",TVRI Sport HD
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN", TVRI
+http://aputra.xyz/nuvella/aputra_tvrinaslive.m3u8
+
+#EXTINF:-1 group-title="LOKAL PILIHAN",Animax
+http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQNjM3d7/aniplus.png" group-title="LOKAL PILIHAN",Aniplus
+http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="LOKAL PILIHAN", Cartoon Network
+http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="mykids" tvg-logo="http://kamiselaluada.com/img/mkidz.png" group-title="LOKAL PILIHAN", M Kidz 
+http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="LOKAL PILIHAN", Nickelodeon
+http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN",Fox Sport 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN",Fox Sport 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN",Fox Sport 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN",SPORT TV 1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN",SPORT TV 2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN",beIN Sport 1 English
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN",beIN Sport 2 English
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+  
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN", Arena Sport
+http://31.220.41.88:8081/live/arena1.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="LOKAL PILIHAN" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png",Match TV Russia
+https://95-213-224-169.livesports24.online/ooomatch.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN",SONY TEN 2
+http://103.109.56.116/live/skyfeed1018/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN", ARENA SPORT SD
+http://31.220.41.88:8081/live/arena1.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGYvpBBr/1280px-Sky-Sport-1-HD-Logo-2015-svg.png" group-title="LOKAL PILIHAN",Sky Sport 1
+http://stream.tvtap.live:8081/live/de-skysport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6Mjk6NDggQU0maGFzaF92YWx1ZT1FT1VCWlk0VXJHMmxuSHBLelBBbi9nPT0mdmFsaWRtaW51dGVzPTIw
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXghNZzm/1200px-Sky-Sport-2-HD-Logo-2015-svg.png" group-title="LOKAL PILIHAN",Sky Sport 2
+http://stream.tvtap.live:8081/live/de-skysport20.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6MzA6MzMgQU0maGFzaF92YWx1ZT1Ia29XQmpZZEJsTENuU2VWbkFZTnd3PT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN", RTM Sport
+http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
+
+#EXTINF:-1 group-title="LOKAL PILIHAN",ASTRO SPORTS
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Movies PILIHAN",HBO
+https://gratismkctv.net/film/hbo.m3u8
+
+#EXTINF:-1 group-title="Movies PILIHAN",HBO Signature
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" tvg-id="ext" group-title="Movies PILIHAN",TVN MOVIES
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" tvg-id="ext" group-title="Movies PILIHAN",THRILL
+http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" tvg-id="ext" group-title="Movies PILIHAN",Zee Bioskop
+http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8?id=eroz_brebes.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" tvg-id="ext" group-title="Movies PILIHAN",CINEMA WORLD
+http://185.180.221.194:8278/streams/d/Cinemaworld/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v82BVh9C/fox-movies-logo.png" group-title="Movies PILIHAN",Fox Movies
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1X8yBx62/1200px-Fox-Family-Movies-logo-svg.png" group-title="Movies PILIHAN",Fox Family Movie
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3ZKd2cK/ab32e0ee56ece3fd3ba9561b568bbf4b.jpg" group-title="Movies PILIHAN",Fox Crime
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Movies PILIHAN" tvg-logo="http://kamiselaluada.com/img/flix.png", &Flix 
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Movies PILIHAN" tvg-logo="http://kamiselaluada.com/img/prive.png", &Prive 
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="LOKAL PILIHAN",Ten Sports (PK)
+http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="LOKAL PILIHAN", ChampionTV 1 
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/157
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="LOKAL PILIHAN", ChampionTV 2 
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/158
+
+#EXTINF:-1 tvg-id="PPTV.th" group-title="LOKAL PILIHAN"tvg-logo="https://www.234.in.th/images/2020/11/17/pptv.png",PPTV 
+https://cdnlive.goprimetime.info/feed/chpptvhd/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="LOKAL PILIHAN", ChampionTV 1 
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/157
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="LOKAL PILIHAN", ChampionTV 2 
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/158
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Tokyo 2020 Olympics", Astro HD 1
+http://mantul.biz.id:8888/5497/5497/4924
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Tokyo 2020 Olympics", Astro HD 2
+http://mantul.biz.id:8888/5497/5497/4923
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Tokyo 2020 Olympics", Astro HD 3
+http://mantul.biz.id:8888/5497/5497/4922
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Tokyo 2020 Olympics", Astro HD 4
+ http://mantul.biz.id:8888/5497/5497/4921
+ 
+ #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Tokyo 2020 Olympics", Astro HD 5
+http://mantul.biz.id:8888/5497/5497/4919
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Tokyo 2020 Olympics", Astro HD 6
+http://mantul.biz.id:8888/5497/5497/4913
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Tokyo 2020 Olympics", Astro HD 7
+http://mantul.biz.id:8888/5497/5497/8983
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Tokyo 2020 Olympics", Astro HD 8
+http://mantul.biz.id:8888/5497/5497/5021
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Tokyo 2020 Olympics", Astro HD 9
+ http://mantul.biz.id:8888/5497/5497/1220
+ 
+ #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Tokyo 2020 Olympics", Astro HD 10
+Astro HD 1http://mantul.biz.id:8888/5497/5497/8463
+09
+
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP-A" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Tokyo 2020 Olympics",ASSP-A
+https://link.zozotv.xyz:443/Freemium4/unlimited99/155
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2-A" tvg-logo="https://i.ibb.co/M27hPW9/JHDET.png" group-title="Tokyo 2020 Olympics",ASSP2-A
+https://link.zozotv.xyz:443/Freemium4/unlimited99/156
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-A" tvg-logo="https://i.ibb.co/3yqCpYV/gkg.png" group-title="Tokyo 2020 Olympics",ASSP3-A
+https://link.zozotv.xyz:443/Freemium4/unlimited99/157
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-A" tvg-logo="https://i.ibb.co/Qct3SqW/s4.png" group-title="Tokyo 2020 Olympics",ASSP4-A
+https://link.zozotv.xyz:443/Freemium1/unlimited99/158
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 1" tvg-logo="https://i.ibb.co/GnZxD0M/xfh.png" group-title="Tokyo 2020 Olympics",FOX Sport 1
+https://link.zozotv.xyz:443/Freemium4/unlimited99/159
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 2" tvg-logo="https://i.ibb.co/NyJNdH0/cgyf.png" group-title="Tokyo 2020 Olympics",FOX Sport 2
+https://link.zozotv.xyz:443/Freemium4/unlimited99/160
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 3" tvg-logo="https://i.ibb.co/tsrt8S3/nvc.png" group-title="Tokyo 2020 Olympics",FOX Sport 3
+https://link.zozotv.xyz:443/Freemium4/unlimited99/161
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/vBYkNyY/htdty.png" group-title="Tokyo 2020 Olympics",beIN Sports 1 ID
+https://link.zozotv.xyz:443/Freemium4/unlimited99/162
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 ID" tvg-logo="https://i.ibb.co/x5dhF5X/RHYSY.png" group-title="Tokyo 2020 Olympics",beIN Sports 2 ID
+https://link.zozotv.xyz:443/Freemium4/unlimited99/163
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 1" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Tokyo 2020 Olympics",OLYMPIC 1
+https://link.zozotv.xyz:443/Freemium4/unlimited99/318
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 2" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Tokyo 2020 Olympics",OLYMPIC 2
+https://link.zozotv.xyz:443/Freemium4/unlimited99/319
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 3" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Tokyo 2020 Olympics",OLYMPIC 3
+https://link.zozotv.xyz:443/Freemium4/unlimited99/320
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 4" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Tokyo 2020 Olympics",OLYMPIC 4
+https://link.zozotv.xyz:443/Freemium4/unlimited99/321
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 5" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Tokyo 2020 Olympics",OLYMPIC 5
+https://link.zozotv.xyz:443/Freemium1/unlimited99/322
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 6" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Tokyo 2020 Olympics",OLYMPIC 6
+https://link.zozotv.xyz:443/Freemium4/unlimited99/323
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 7" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Tokyo 2020 Olympics",OLYMPIC 7
+https://link.zozotv.xyz:443/Freemium4/unlimited99/324
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 8" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Tokyo 2020 Olympics",OLYMPIC 8
+https://link.zozotv.xyz:443/Freemium4/unlimited99/325
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 9" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Tokyo 2020 Olympics",OLYMPIC 9
+https://link.zozotv.xyz:443/Freemium4/unlimited99/326
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 10" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Tokyo 2020 Olympics",OLYMPIC 10
+https://link.zozotv.xyz:443/Freemium4/unlimited99/327
