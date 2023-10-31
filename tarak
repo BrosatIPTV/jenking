@@ -1,367 +1,196 @@
-#EXTINF:-1 tvg-logo=https://i.postimg.cc/DmkjfVcW/Astro-awani.jpg group-title="ASTRO" ,  ASTRO AWANI
-http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+https://karlfazreen.github.io/playlist/skystore/sky21.m3u8
 
-#EXTINF:0 tvg-logo=https://i.postimg.cc/HWvJ863C/Astro-Rania-NEW.png group-title="ASTRO" , Rania HD
-http://iptv.tvmalaysia.cc/live/penang172/penang172/6729.m3u8
 
-#EXTINF:0 tvg-logo=https://i.postimg.cc/ZRKRCNdR/Astro-Aura-NEW.png group-title="ASTRO" , Aura HD
-http://iptv.tvmalaysia.cc/live/penang172/penang172/6713.m3u8
+TAMIL INDIA ---------------------
 
-#EXTINF:-1 tvg-logo=https://i.postimg.cc/cL1jvWSY/Astro-Ceria.png group-title="ASTRO" , CERIA
-http://iptv.tvmalaysia.cc:80/139664/139664/6715
 
-#EXTINF:-1 tvg-logo=https://i.postimg.cc/437WcNFK/Astro-Oasis.png group-title="ASTRO" , OASIS
-http://iptv.tvmalaysia.cc:80/139664/139664/6725
+SINGAM CLOUD -------------------
+[ IN ] TAMIL
 
-#EXTINF:-1 tvg-logo=https://i.postimg.cc/65pLRp89/Astro-Prima.png group-title="ASTRO" , PRIMA
-http://iptv.tvmalaysia.cc:80/139664/139664/6727
 
-#EXTINF:-1 tvg-logo=https://i.postimg.cc/pVG5wYdH/Astro-Ria.png group-title="ASTRO" ,  RIA
-http://iptv.tvmalaysia.cc:80/139664/139664/6730
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SdSzxcc/7-STAR-SHARVESH.png" group-title="[ IN ] TAMIL",7 STAR SHARVESH 
+http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=https://i.postimg.cc/8C4zhNJS/Astro-Warna-NEW.png group-title="ASTRO" , WARNA
-http://iptv.tvmalaysia.cc:80/139664/139664/6740
+#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL", 7Star TV
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL",AADHAVAN Colours TV 
+https://1cloud.digital/adhavan/colours.m3u8
 
-#EXTINF:-1 tvg-logo=https://www.lyngsat.com/logo/tv/ii/iqiyi-cn.png group-title="ASTRO" , iQIYI HD
-http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60G99hb/Aadhavantamil.png" group-title="[ IN ] TAMIL", Aadhavan TV
+http://aadhavantamiltv.phoenixcreations.online:1935/aadhavantamiltv/aadhavantamiltv/playlist.m3u8AA
 
-#EXTINF:-1 tvg-logo=https://www.lyngsat.com/logo/tv/ii/iqiyi-cn.png group-title="ASTRO" , iQIYI HD Backup
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6723
+#EXTINF:-1, tvg-logo="https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/poster/2eba8848-cca8-4e7a-a954-17342fd8b18f.webp" group-title="[ IN ] TAMIL", AARYA TV
+https://galaxyott.live/hls/aaryatv.m3u8
 
-#EXTINF:-1 tvg-logo=https://www.lyngsat.com/logo/tv/bb/boo_my.png group-title="ASTRO" , BOO
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL",Aathavan TV 
+https://telegram-bot-ttl.thirumurthy91.repl.co/athavantv
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo=https://i.postimg.cc/Dyt4XzyH/aec.png ,  AEC
-http://iptv.tvmalaysia.cc:80/139664/139664/6701
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0BVOVG0PuTTyVLDw68UAlLIjdUccgb3_wwtoBBKG_4nsZk6_hnv9UCHK3z_fHNXk64s=w240-h480-rw" group-title="[ IN ] TAMIL",Avnaiganesh TV
+http://hdbox.singamcloud.in:1935/avaniganesantv/avaniganesantv/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo=https://i.postimg.cc/X7Q3JBYp/Astroaodlogo.png ,  AOD
-http://iptv.tvmalaysia.cc:80/139664/139664/6702
+#EXTINF:-1 tvg-logo="https://singamcloud.com/uploads/tv_image/sm/dharani-tv.png" group-title="[ IN ] TAMIL", DHARANI TV 
+https://stream.singamcloud.in/dharanitv/dharanitv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://singamcloud.com/tv/upload/1679840897_IMG-20230325-WA0093.jpg" group-title="[ IN ] TAMIL",KARTHI TV 
+http://live.singamcloud.in/karthitv/karthitv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png" group-title="ASTRO" , Astro AOD CH311
-http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/X3jc8QfsoukIP7lRp0MNkyqzcI3waY1DDBsql46HhJxPWi3T16qbTOomwhzDjE6a_Ljq=w240-h480-rw" group-title="[ IN ] TAMIL", L TV
+http://live.singamcloud.in/rtv/rtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png" group-title="ASTRO" , Astro AOD CH351
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6702
+#EXTINF:-1 tvg-logo="https://singamcloud.com/uploads/tv_image/sm/nila-tv.png" group-title="[ IN ] TAMIL", Nila HD
+https://stream.singamcloud.in/nilatv/nilatv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png" group-title="ASTRO" , Astro AOD CH352
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6703
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xo3385PT6qrdy2uxYAxOhGd3xqludQDCtJezJ8hp-k19dGb5c4pBqyB8n0RTuGOl6Q=w240-h480-rw" group-title="[ IN ] TAMIL",RIO TV 
+http://singamcloud.in/riotv/riotv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png" group-title="ASTRO" , Astro AOD CH353
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6704
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/R7uXSJQ-fSVfWwJSwK6R04xwEF38ahXZKZ5oGpwWYtaud99Z9VeFQH778vIFOT-q1g=w480-h960-rw" group-title="[ IN ] TAMIL", SAR TV 
+http://sartv.phoenixcreations.online:1935/sartv/sartv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png" group-title="ASTRO" , Astro AOD CH354
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6705
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2DfvMKf.png" group-title="[ IN ] TAMIL",Vidiyal Tv
+https://account11.livebox.co.in/vidyaltvhls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png" group-title="ASTRO" , Astro AOD CH355
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6706
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/cgrID27OHeQx_nNKVcFUJdb0iPpYLE5OCZXs1GvkkRrzeYzeHmHZSBIxQMhUR5rA1w=w480-h960-rw" group-title="[ IN ] TAMIL",UTV Tamil HD
+http://live.notvstream.in/hls/utv.m3u8
 
-#EXTINF:0 group-title="ASTRO" tvg-logo=https://i.postimg.cc/j21r6DXN/NAURA.png ,  NAURA
-http://iptv.tvmalaysia.cc:80/139664/139664/6724
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ApkLVeNBOSyeOx-ciN8PXlqUkBhGg2TmufFq8aei1tu2k8i9SU5PYR5byRI9C42dT4I=w240-h480-rw" group-title="[ IN ] TAMIL",Skytv Plus TV
 
-#EXTINF:0 group-title="ASTRO" tvg-logo=https://i.postimg.cc/j21r6DXN/NAURA.png ,  HELLO! 
-http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 
-#EXTINF:0 group-title="ASTRO" tvg-logo=https://i.postimg.cc/j21r6DXN/NAURA.png ,  HELLO! BACKUP
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
-#EXTINF:0 group-title="ASTRO" tvg-logo=https://i.postimg.cc/3Jt3M73Y/Astro-Citra.png ,  CITRA
-http://iptv.tvmalaysia.cc:80/139664/139664/7267
+TAMIL STREAMS RASI --------------------
+[ IN ] TAMIL : 2
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo=https://i.postimg.cc/hGmH9Xc8/Bolly-One-HD-Logo-Eng.png ,  Bollyone HD
-http://iptv.tvmalaysia.cc:80/139664/139664/6754
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo=https://i.postimg.cc/x1wZT9MX/N5hOBhdY.jpg , VAANAVIL
-http://iptvtree.net:8080/44444/4506fd18/201163
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ydNm0T2/Picsart-23-05-28-13-38-52-975.jpg" group-title="[ IN ] TAMIL : 2", Ajantha TV
+https://s1.tamilstreams.in/ajanthatv/ajanthatv/index.m3u8
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo=https://i.postimg.cc/RZHPY2y4/Astro-Hua-Hee-Dailogo.png , HUA HEE DAI HD
-http://iptvtree.net:8080/44444/4506fd18/247424
+#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/RASI TV logo HD.png" group-title="[ IN ] TAMIL : 2", Rasi TV
+http://rasinetworks.in:1935/rasitv/rasitv.stream_aac/index.m3u8
 
-#EXTINF:0 group-title=""ASTRO"" tvg-logo=https://i.postimg.cc/50NSfr7H/Astro-Quan-Jia.png , QUAN JIA HD
-http://iptvtree.net:8080/44444/4506fd18/247427
+#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL : 2", Rasi Tamil
+http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/index.m3u8
 
-#EXTINF:0 group-title="ASTRO" tvg-logo=https://i.postimg.cc/13GGwSbn/Astro-Hua-Hee.png , SHUANG XING HD
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL : 2",Rasi Movies
+http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8
 
-#EXTINF:0 group-title="ASTRO" tvg-logo=https://i.postimg.cc/QM60KsWg/Vijay-tv.png ,  STAR VIJAY HD
-http://iptv.tvmalaysia.cc:80/139664/139664/6732
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5Bj8dWZ/Picsart-23-05-28-13-29-12-254.jpg" group-title="[ IN ] TAMIL : 2",Rasi Music
+http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/index.m3u8
 
-#EXTINF:0 group-title="ASTRO" tvg-logo=https://i.postimg.cc/HW8BnqW5/Astro-TTV.png ,  TUTOR TV PT3
-https://nonton.site:8443/6894864475/7163819284/37396
+#EXTINF:-1 tvg-logo="https://forums.launchbox-app.com/uploads/monthly_2017_11/5a073831cc827_MovieLOGO.png.2d7cf9d452156a029c974795c8f3dfbd.png" group-title="[ IN ] TAMIL : 2", OneMovies TV
+https://1cloud.digital/onetv/onemovies.m3u8
 
-#EXTINF:0 group-title="ASTRO" tvg-logo=https://i.postimg.cc/jStX8CHQ/spm.jpg ,  TUTOR TV SPM
-http://iptv.tvmalaysia.cc:80/139664/139664/6735
+#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL : 2",Rasi Hollywood
+http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/index.m3u8
 
-#EXTINF:0 group-title="ASTRO" tvg-logo=https://i.postimg.cc/cLFQXh40/Astro-TVIQ.png ,  TVIQ
-https://nonton.site:8443/6894864475/7163819284/37398
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FoneHollywoodHd.jpg?alt=media&token=0c552991-77ad-42de-9e4c-8c6f4847285e" group-title="[ IN ] TAMIL : 2", One Hollywood HD
+rtmp://1cloud.digital:1935/onetv/onehollywood
 
-#EXTINF:0 group-title="ASTRO" tvg-logo=https://i.postimg.cc/qM0yrSNp/vinmeen.jpg ,  VINMEEN HD
-http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/Rasi Classic HD-2 (1).png" group-title="[ IN ] TAMIL : 2",Rasi Classic
+http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/index.m3u8
 
-#EXTINF:0 group-title="ASTRO" tvg-logo=https://i.postimg.cc/0Qwn6pDw/Colors-Tamil.png ,  COLORS TAMIL
-http://iptv.tvmalaysia.cc:80/139664/139664/6716
-
-#EXTINF:0 group-title="ASTRO" tvg-logo=https://i.postimg.cc/0Qwn6pDw/Colors-Tamil.png ,  COLORS 
-http://iptv.tvmalaysia.cc:80/139664/139664/6769
-
-
-#EXTINF:0 group-title=ASTRO tvg-logo=https://i.postimg.cc/Z55NBNPg/Astro-Xiao-Tai-Yang.png , XIAO TAI YANG
-http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
-
-#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-sports-my.png",RTM Sports
-http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm_my_tv1.png" group-title="MALAYSIA",TV1
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm_my_tv2.png" group-title="MALAYSIA",TV2
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/8-tv-my.png" group-title="MALAYSIA",TV8
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_my.png" group-title="MALAYSIA",TV9
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_awani.png",Astro Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-citra-my.png",Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_oasis.png",Astro Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://www.tvikim.my/images/logo-header.png",TV IKIM
-http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
-#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bernama-my.png",Bernama
-http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://www.lyngsat.com/logo/tv/oo/oh-k-us-sg.png",Oh!K
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv3_my.png",TV3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://aputra.xyz/epg/Indosiar.id.png" group-title="LOKAL PILIHAN", INDOSIAR
-http://210.210.155.35/session/ff18590a-f07e-11eb-bf8c-8f4a94747fdb/qwr9ew/s/s04/01.m3u8
-http://nonton.wap.sh/id/002.m3u8
-
-#EXTINF:-1 tvg-logo="http://aputra.xyz/epg/MNC.mn.png" group-title="LOKAL PILIHAN", MNCTV
-http://zalogitv.tech:8080/oktavia/oktavia/1317
-https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-870
-
-#EXTINF:-1 tvg-logo="http://aputra.xyz/epg/ANTV.id.png" group-title="LOKAL PILIHAN", ANTV
-http://210.210.155.35/qwr9ew/s/s07/02.m3u8
-
-#EXTINF:-1 tvg-logo="http://aputra.xyz/epg/SCTV.id.png" group-title="LOKAL PILIHAN", SCTV
-http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN", RCTI
-https://gpc.my.id/vidio/rcti.m3u8
-https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-665
-
-#EXTINF:-1 tvg-logo="http://aputra.xyz/epg/gtv.png" group-title="LOKAL PILIHAN",GTV
-http://zalogitv.tech:8080/oktavia/oktavia/1318
-https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-778
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN", TVONE
-http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN", TRANS7HD 
-http://www.goldentv.tech:25461/Gratisan2/2021/23270
-
-#EXTINF:-1 tvg-logo="http://aputra.xyz/epg/TransTV.id.png" group-title="LOKAL PILIHAN", TRANSTVHD
-http://www.goldentv.tech:25461/Gratisan2/2021/23272
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN", Net TV
-http://dituduhmaling.xyz/US33T4/net.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN",iNews
-https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-5409
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN", RTV
-http://210.210.155.35/qwr9ew/s/s12/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN", KOMPAS TV
-http://210.210.155.35/qwr9ew/s/s104/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN",TVRI Sport HD
-http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN", TVRI
-http://aputra.xyz/nuvella/aputra_tvrinaslive.m3u8
-
-#EXTINF:-1 group-title="LOKAL PILIHAN",Animax
-http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQNjM3d7/aniplus.png" group-title="LOKAL PILIHAN",Aniplus
-http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="LOKAL PILIHAN", Cartoon Network
-http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="mykids" tvg-logo="http://kamiselaluada.com/img/mkidz.png" group-title="LOKAL PILIHAN", M Kidz 
-http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="LOKAL PILIHAN", Nickelodeon
-http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN",Fox Sport 1
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN",Fox Sport 2
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN",Fox Sport 3
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN",SPORT TV 1
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN",SPORT TV 2
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN",beIN Sport 1 English
-http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN",beIN Sport 2 English
-http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN", Arena Sport
-http://31.220.41.88:8081/live/arena1.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="LOKAL PILIHAN" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png",Match TV Russia
-https://95-213-224-169.livesports24.online/ooomatch.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN",SONY TEN 2
-http://103.109.56.116/live/skyfeed1018/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN", ARENA SPORT SD
-http://31.220.41.88:8081/live/arena1.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGYvpBBr/1280px-Sky-Sport-1-HD-Logo-2015-svg.png" group-title="LOKAL PILIHAN",Sky Sport 1
-http://stream.tvtap.live:8081/live/de-skysport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6Mjk6NDggQU0maGFzaF92YWx1ZT1FT1VCWlk0VXJHMmxuSHBLelBBbi9nPT0mdmFsaWRtaW51dGVzPTIw
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXghNZzm/1200px-Sky-Sport-2-HD-Logo-2015-svg.png" group-title="LOKAL PILIHAN",Sky Sport 2
-http://stream.tvtap.live:8081/live/de-skysport20.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6MzA6MzMgQU0maGFzaF92YWx1ZT1Ia29XQmpZZEJsTENuU2VWbkFZTnd3PT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL PILIHAN", RTM Sport
-http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
-
-#EXTINF:-1 group-title="LOKAL PILIHAN",ASTRO SPORTS
-http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Movies PILIHAN",HBO
-https://gratismkctv.net/film/hbo.m3u8
-
-#EXTINF:-1 group-title="Movies PILIHAN",HBO Signature
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" tvg-id="ext" group-title="Movies PILIHAN",TVN MOVIES
-http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" tvg-id="ext" group-title="Movies PILIHAN",THRILL
-http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" tvg-id="ext" group-title="Movies PILIHAN",Zee Bioskop
-http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8?id=eroz_brebes.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" tvg-id="ext" group-title="Movies PILIHAN",CINEMA WORLD
-http://185.180.221.194:8278/streams/d/Cinemaworld/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v82BVh9C/fox-movies-logo.png" group-title="Movies PILIHAN",Fox Movies
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1X8yBx62/1200px-Fox-Family-Movies-logo-svg.png" group-title="Movies PILIHAN",Fox Family Movie
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3ZKd2cK/ab32e0ee56ece3fd3ba9561b568bbf4b.jpg" group-title="Movies PILIHAN",Fox Crime
-http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
- 
-#EXTINF:-1 group-title="Movies PILIHAN" tvg-logo="http://kamiselaluada.com/img/flix.png", &Flix 
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Movies PILIHAN" tvg-logo="http://kamiselaluada.com/img/prive.png", &Prive 
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="LOKAL PILIHAN",Ten Sports (PK)
-http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="LOKAL PILIHAN", ChampionTV 1 
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/157
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="LOKAL PILIHAN", ChampionTV 2 
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/158
-
-#EXTINF:-1 tvg-id="PPTV.th" group-title="LOKAL PILIHAN"tvg-logo="https://www.234.in.th/images/2020/11/17/pptv.png",PPTV 
-https://cdnlive.goprimetime.info/feed/chpptvhd/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="LOKAL PILIHAN", ChampionTV 1 
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/157
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="LOKAL PILIHAN", ChampionTV 2 
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/158
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Tokyo 2020 Olympics", Astro HD 1
-http://mantul.biz.id:8888/5497/5497/4924
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Tokyo 2020 Olympics", Astro HD 2
-http://mantul.biz.id:8888/5497/5497/4923
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Tokyo 2020 Olympics", Astro HD 3
-http://mantul.biz.id:8888/5497/5497/4922
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Tokyo 2020 Olympics", Astro HD 4
- http://mantul.biz.id:8888/5497/5497/4921
- 
- #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Tokyo 2020 Olympics", Astro HD 5
-http://mantul.biz.id:8888/5497/5497/4919
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Tokyo 2020 Olympics", Astro HD 6
-http://mantul.biz.id:8888/5497/5497/4913
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Tokyo 2020 Olympics", Astro HD 7
-http://mantul.biz.id:8888/5497/5497/8983
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Tokyo 2020 Olympics", Astro HD 8
-http://mantul.biz.id:8888/5497/5497/5021
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Tokyo 2020 Olympics", Astro HD 9
- http://mantul.biz.id:8888/5497/5497/1220
- 
- #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Tokyo 2020 Olympics", Astro HD 10
-Astro HD 1http://mantul.biz.id:8888/5497/5497/8463
-09
-
-#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP-A" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Tokyo 2020 Olympics",ASSP-A
-https://link.zozotv.xyz:443/Freemium4/unlimited99/155
-#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2-A" tvg-logo="https://i.ibb.co/M27hPW9/JHDET.png" group-title="Tokyo 2020 Olympics",ASSP2-A
-https://link.zozotv.xyz:443/Freemium4/unlimited99/156
-#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-A" tvg-logo="https://i.ibb.co/3yqCpYV/gkg.png" group-title="Tokyo 2020 Olympics",ASSP3-A
-https://link.zozotv.xyz:443/Freemium4/unlimited99/157
-#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-A" tvg-logo="https://i.ibb.co/Qct3SqW/s4.png" group-title="Tokyo 2020 Olympics",ASSP4-A
-https://link.zozotv.xyz:443/Freemium1/unlimited99/158
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 1" tvg-logo="https://i.ibb.co/GnZxD0M/xfh.png" group-title="Tokyo 2020 Olympics",FOX Sport 1
-https://link.zozotv.xyz:443/Freemium4/unlimited99/159
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 2" tvg-logo="https://i.ibb.co/NyJNdH0/cgyf.png" group-title="Tokyo 2020 Olympics",FOX Sport 2
-https://link.zozotv.xyz:443/Freemium4/unlimited99/160
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 3" tvg-logo="https://i.ibb.co/tsrt8S3/nvc.png" group-title="Tokyo 2020 Olympics",FOX Sport 3
-https://link.zozotv.xyz:443/Freemium4/unlimited99/161
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/vBYkNyY/htdty.png" group-title="Tokyo 2020 Olympics",beIN Sports 1 ID
-https://link.zozotv.xyz:443/Freemium4/unlimited99/162
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 ID" tvg-logo="https://i.ibb.co/x5dhF5X/RHYSY.png" group-title="Tokyo 2020 Olympics",beIN Sports 2 ID
-https://link.zozotv.xyz:443/Freemium4/unlimited99/163
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 1" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Tokyo 2020 Olympics",OLYMPIC 1
-https://link.zozotv.xyz:443/Freemium4/unlimited99/318
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 2" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Tokyo 2020 Olympics",OLYMPIC 2
-https://link.zozotv.xyz:443/Freemium4/unlimited99/319
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 3" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Tokyo 2020 Olympics",OLYMPIC 3
-https://link.zozotv.xyz:443/Freemium4/unlimited99/320
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 4" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Tokyo 2020 Olympics",OLYMPIC 4
-https://link.zozotv.xyz:443/Freemium4/unlimited99/321
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 5" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Tokyo 2020 Olympics",OLYMPIC 5
-https://link.zozotv.xyz:443/Freemium1/unlimited99/322
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 6" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Tokyo 2020 Olympics",OLYMPIC 6
-https://link.zozotv.xyz:443/Freemium4/unlimited99/323
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 7" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Tokyo 2020 Olympics",OLYMPIC 7
-https://link.zozotv.xyz:443/Freemium4/unlimited99/324
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 8" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Tokyo 2020 Olympics",OLYMPIC 8
-https://link.zozotv.xyz:443/Freemium4/unlimited99/325
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 9" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Tokyo 2020 Olympics",OLYMPIC 9
-https://link.zozotv.xyz:443/Freemium4/unlimited99/326
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 10" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Tokyo 2020 Olympics",OLYMPIC 10
-https://link.zozotv.xyz:443/Freemium4/unlimited99/327
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bNwL59h/Picsart-23-05-28-13-42-28-528.jpg" group-title="[ IN ] TAMIL : 2", Bala TV
+https://s1.tamilstreams.in/balatv/balatv/index.m3u8
+
+TAMIL COMEDY -----------------------
+
+#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL : 2",IBC Pagadi
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
+
+
+
+TAMIL MOVIE -----------------------
+[ IN ] TAMIL : 3
+
+
+
+#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL : 3",KalaiCinema
+https://singamcloud.in/kalai/kalaicinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL : 3",Rasi Movies
+http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL : 3",Rasi Hollywood
+http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL : 3",Rasi Tamil
+http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL : 3",Rasi TV
+http://rasinetworks.in:1935/rasitv/rasitv.stream_aac/index.m3u8
+
+#EXTINF:-1 tvg-id="jayamax.in" tvg-name="Jaya Max" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_Max.png" group-title=""[ IN ] TAMIL : 3",Jaya Max
+http://watchindia.net:8880/live/varghesekunju62/308678sher/852.ts
+
+#EXTINF:-1 tvg-id="jayamovies.in" tvg-name="Jaya Movie" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_Movie.png" group-title=""[ IN ] TAMIL : 3",Jaya Movie
+http://watchindia.net:8880/live/varghesekunju62/308678sher/849.ts
+
+#EXTINF:-1 tvg-id="jayaplus.in" tvg-name="Jaya Plus" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_Plus.png" group-title=""[ IN ] TAMIL : 3",Jaya Plus
+http://watchindia.net:8880/live/varghesekunju62/308678sher/850.ts
+
+#EXTINF:-1 tvg-id="jaya.in" tvg-name="Jaya TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_TV_HD.png" group-title=""[ IN ] TAMIL : 3",Jaya TV HD
+http://watchindia.net:8880/live/varghesekunju62/308678sher/851.ts
+
+PHOENIX CREATIONS  -------------------------
+[ IN ] TAMIL : 4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GMmfdHz/Jenifertv.png" group-title="[ IN ] TAMIL : 4",JENIFER TVHD
+http://jenifertv.phoenixcreations.online:1935/live/jenifertv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://hellophoenix.online/phoenixentertainment/001phoenixtv/admin/img/tvchannels/avathar1688882419.png" group-title="[ IN ] TAMIL : 4",Cinematheater24 TV
+http://cinematheater24.phoenixcreations.online:1935/cinematheater24/cinematheater24/chunklist_w1243229841.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/N6D59CkSb75w9Z2WOOo_bwclyXXVs6U2FAmFD4VS8-Np6eY5BaT8ebMqoKFEGcerbkav=w240-h480-rw" group-title="[ IN ] TAMIL : 4",SS TV  
+http://sstv.phoenixcreations.online:1935/sstv/sstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YkGh2hG/APStv.png" group-title="[ IN ] TAMIL : 4", APS TV
+http://apstv.phoenixcreations.online:1935/apstv/apstv/chunklist_w1163481813.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TcdKcfZ/MSMadhantv.png" group-title="[ IN ] TAMIL : 4", MSMadhan TV
+http://msmadhantv.phoenixcreations.online:1935/msmadhantv/msmadhantv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mXYm9bq/Jayamtv.png" group-title="[ IN ] TAMIL : 4", Jayam TV
+https://live.sscloud7.com/hls/jayamtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YdgsDHt/Suriyantv.png" group-title="[ IN ] TAMIL : 4",SURIYAN TV HD 
+https://stream.sscloud7.com/hls/suriyantv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mJKHqvP/Subashtv.png" group-title="[ IN ] TAMIL : 4",Subash TV
+https://1cloud.digital/subashtv/subashhd.m3u8
+
+#EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/omtv.png" group-title="[ IN ] TAMIL : 4", OM Tamil TV
+http://omtv.phoenixcreations.online:1935/live/omtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxKYn1T/Mithratv.png" group-title="[ IN ] TAMIL : 4", Mithra TV
+http://mithratv.phoenixcreations.online:1935/mithratv/mithratv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kcZyDMG/rktv.png" group-title="[ IN ] TAMIL : 4",RK TV 
+https://sscloud7.com/hls/rktv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRCgRXG/Sky-Mediatv.png" group-title="[ IN ] TAMIL : 4",Sky media TV
+http://skymedia.phoenixcreations.online:1935/live/skymedia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vJPbpFQ/Raghultv.png" group-title="[ IN ] TAMIL : 4",RAGHUL TV
+http://raghultv.phoenixcreations.online:1935/live/raghultv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vZ18yiS9gOenA4opyOQR00F-Zfkf2gYJSVEUPSOPrl8J5JzT1Pl-Wdss0KD2sBlfo08=w240-h480-rw" group-title="[ IN ] TAMIL : 4", PHEONIX HD 
+http://server1.phoenixcreations.online:1935/live/phoenixtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60G99hb/Aadhavantamil.png" group-title="[ IN ] TAMIL : 4", Aadhavan TV
+http://aadhavantamiltv.phoenixcreations.online:1935/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jnc9JbZ/Josetv.png" group-title="[ IN ] TAMIL : 4",Jose TV
+http://josetv.phoenixcreations.online:1935/live/josetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://hellophoenix.online/phoenixentertainment/001phoenixtv/admin/img/tvchannels/avathar1689188635.png" group-title="[ IN ] TAMIL : 4",Ayya TVHD
+http://ayyatv.phoenixcreations.online:1935/live/ayyatv/chunklist_w48739751.m3u8
+
+https://1cloud.digital/skytv/skytv.m3u8
+
+
+<noscript>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'71e279c4799f4ca7',m:'rRvjkdTqUzsA72dNMgVPBdmi8eFUUm0TaezDWTdg6Ss-1655706834-0-AWCILmLNi01muIBGoiW/eIgjUgIiA0mlVcDCBeWOiS6HjYY4b9h5WfDUj5k8DIkmGvdWqyH0Sgii5MN1+aXR22yBvl/Il2e+D2St8TU4HiyluIq9TSx5prk+N9jl8tt+hw==',s:[0x373f4008d3,0x39f162e0f8],u:'/cdn-cgi/challenge-platform/h/g'}})();</script>
+
+
+
+
+
