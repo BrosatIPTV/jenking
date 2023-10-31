@@ -186,7 +186,10 @@ http://ayyatv.phoenixcreations.online:1935/live/ayyatv/chunklist_w48739751.m3u8
 
 https://1cloud.digital/skytv/skytv.m3u8
 
+https://delta31tatasky.akamaized.net/out/i/4085.mpd
 
+#EXTINF:-1 tvg-logo="http://hellophoenix.online/phoenixentertainment/001phoenixtv/admin/img/tvchannels/avathar1689188635.png" group-title="[ IN ] TAMIL : 4",test TVHD
+https://delta31tatasky.akamaized.net/out/i/4085.mpd
 <noscript>
 <script type="text/javascript">(function(){window['__CF$cv$params']={r:'71e279c4799f4ca7',m:'rRvjkdTqUzsA72dNMgVPBdmi8eFUUm0TaezDWTdg6Ss-1655706834-0-AWCILmLNi01muIBGoiW/eIgjUgIiA0mlVcDCBeWOiS6HjYY4b9h5WfDUj5k8DIkmGvdWqyH0Sgii5MN1+aXR22yBvl/Il2e+D2St8TU4HiyluIq9TSx5prk+N9jl8tt+hw==',s:[0x373f4008d3,0x39f162e0f8],u:'/cdn-cgi/challenge-platform/h/g'}})();</script>
 
