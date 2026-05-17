@@ -1,201 +1,457 @@
-https://karlfazreen.github.io/playlist/skystore/sky21.m3u8
+#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml, https://raw.githubusercontent.com/dbghelp/Test-EPG/refs/heads/main/test_epg.xml,https://raw.githubusercontent.com/walpak1/epg/refs/heads/gh-pages/mana2.xml,https://raw.githubusercontent.com/dbghelp/Singtel-TV-EPG/refs/heads/main/singtel.xml,https://raw.githubusercontent.com/tv1973/xmltv_uk/refs/heads/master/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml,https://raw.githubusercontent.com/walpak1/epg/refs/heads/gh-pages/sooka.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/walpak1/epg/refs/heads/gh-pages/singtel.xml,https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/unifitv.xml,https://raw.githubusercontent.com/walpak1/epg/refs/heads/gh-pages/unifi.xml,https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/xumo_epg.xml.gz,https://raw.githubusercontent.com/walpak1/epg/refs/heads/gh-pages/astro.xml,https://raw.githubusercontent.com/walpak1/epg/refs/heads/gh-pages/starhub.xml,https://raw.githubusercontent.com/zultan-m/astro-epg/refs/heads/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/unifitv.xml,https://epg.pw/xmltv/epg_MY.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml,https://raw.githubusercontent.com/Jerrie-Aries/EPG/refs/heads/master/epg.xml" refresh="1440" vod_library="https://raw.githubusercontent.com/ediey7523017/tv/main/AsianVOD,https://raw.githubusercontent.com/ediey7523017/tv/main/CollectionVOD,https://raw.githubusercontent.com/ediey7523017/tv/main/EnglishVOD,https://raw.githubusercontent.com/ediey7523017/tv/main/IndianVOD,https://raw.githubusercontent.com/ediey7523017/tv/main/NetflixVOD,https://vod.abeott.workers.dev/,https://pastebin.com/raw/MCHBa4dC,https://tinyurl.com/moviepaduuu" billed-msg=" TONTON "
 
 
-TAMIL INDIA ---------------------
 
 
-SINGAM CLOUD -------------------
-[ IN ] TAMIL
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SdSzxcc/7-STAR-SHARVESH.png" group-title="[ IN ] TAMIL",7 STAR SHARVESH 
-http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
+##############################################################################Astro##################################################################################
 
-#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL", 7Star TV
-http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL",AADHAVAN Colours TV 
-https://1cloud.digital/adhavan/colours.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/60G99hb/Aadhavantamil.png" group-title="[ IN ] TAMIL", Aadhavan TV
-http://aadhavantamiltv.phoenixcreations.online:1935/aadhavantamiltv/aadhavantamiltv/playlist.m3u8AA
+#####test###
 
-#EXTINF:-1, tvg-logo="https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/poster/2eba8848-cca8-4e7a-a954-17342fd8b18f.webp" group-title="[ IN ] TAMIL", AARYA TV
-https://galaxyott.live/hls/aaryatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL",Aathavan TV 
-https://telegram-bot-ttl.thirumurthy91.repl.co/athavantv
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0BVOVG0PuTTyVLDw68UAlLIjdUccgb3_wwtoBBKG_4nsZk6_hnv9UCHK3z_fHNXk64s=w240-h480-rw" group-title="[ IN ] TAMIL",Avnaiganesh TV
-http://hdbox.singamcloud.in:1935/avaniganesantv/avaniganesantv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://singamcloud.com/uploads/tv_image/sm/dharani-tv.png" group-title="[ IN ] TAMIL", DHARANI TV 
-https://stream.singamcloud.in/dharanitv/dharanitv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://singamcloud.com/tv/upload/1679840897_IMG-20230325-WA0093.jpg" group-title="[ IN ] TAMIL",KARTHI TV 
-http://live.singamcloud.in/karthitv/karthitv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/X3jc8QfsoukIP7lRp0MNkyqzcI3waY1DDBsql46HhJxPWi3T16qbTOomwhzDjE6a_Ljq=w240-h480-rw" group-title="[ IN ] TAMIL", L TV
-http://live.singamcloud.in/rtv/rtv/index.m3u8
+###resteam####
 
-#EXTINF:-1 tvg-logo="https://singamcloud.com/uploads/tv_image/sm/nila-tv.png" group-title="[ IN ] TAMIL", Nila HD
-https://stream.singamcloud.in/nilatv/nilatv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xo3385PT6qrdy2uxYAxOhGd3xqludQDCtJezJ8hp-k19dGb5c4pBqyB8n0RTuGOl6Q=w240-h480-rw" group-title="[ IN ] TAMIL",RIO TV 
-http://singamcloud.in/riotv/riotv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/R7uXSJQ-fSVfWwJSwK6R04xwEF38ahXZKZ5oGpwWYtaud99Z9VeFQH778vIFOT-q1g=w480-h960-rw" group-title="[ IN ] TAMIL", SAR TV 
-http://sartv.phoenixcreations.online:1935/sartv/sartv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2DfvMKf.png" group-title="[ IN ] TAMIL",Vidiyal Tv
-https://account11.livebox.co.in/vidyaltvhls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/cgrID27OHeQx_nNKVcFUJdb0iPpYLE5OCZXs1GvkkRrzeYzeHmHZSBIxQMhUR5rA1w=w480-h960-rw" group-title="[ IN ] TAMIL",UTV Tamil HD
-http://live.notvstream.in/hls/utv.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ApkLVeNBOSyeOx-ciN8PXlqUkBhGg2TmufFq8aei1tu2k8i9SU5PYR5byRI9C42dT4I=w240-h480-rw" group-title="[ IN ] TAMIL",Skytv Plus TV
 
 
+#EXTINF:-1 tvg-id="AstroRia" ch-number="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="",104 Astro Ria FHD 
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
+https://load.perfecttv.net/rwt.m3u8?username=vip_7rf7ewmg&password=b4iudSZR&channel=ria
+#https://rd1.smt123.cc.cd/smtrust.php?path=/smt/2621
+#https://isurl.cc/Riarestream
 
-TAMIL STREAMS RASI --------------------
-[ IN ] TAMIL : 2
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ydNm0T2/Picsart-23-05-28-13-38-52-975.jpg" group-title="[ IN ] TAMIL : 2", Ajantha TV
-https://s1.tamilstreams.in/ajanthatv/ajanthatv/index.m3u8
+#EXTINF:-1 tvg-id="AstroPrima"  ch-number="105" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="",105 Astro Prima FHD 
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
+https://load.perfecttv.net/rwt.m3u8?username=vip_7rf7ewmg&password=b4iudSZR&channel=prima
+#https://rd1.smt123.cc.cd/smtrust.php?path=/smt/2658
+#https://isurl.cc/Primarr
 
-#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/RASI TV logo HD.png" group-title="[ IN ] TAMIL : 2", Rasi TV
-http://rasinetworks.in:1935/rasitv/rasitv.stream_aac/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL : 2", Rasi Tamil
-http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL : 2",Rasi Movies
-http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5Bj8dWZ/Picsart-23-05-28-13-29-12-254.jpg" group-title="[ IN ] TAMIL : 2",Rasi Music
-http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/index.m3u8
+#EXTINF:-1 tvg-id="AstroCitra" ch-number="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="",108 Astro Citra HD
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
+https://da.gd/Citra2
 
-#EXTINF:-1 tvg-logo="https://forums.launchbox-app.com/uploads/monthly_2017_11/5a073831cc827_MovieLOGO.png.2d7cf9d452156a029c974795c8f3dfbd.png" group-title="[ IN ] TAMIL : 2", OneMovies TV
-https://1cloud.digital/onetv/onemovies.m3u8
 
-#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL : 2",Rasi Hollywood
-http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FoneHollywoodHd.jpg?alt=media&token=0c552991-77ad-42de-9e4c-8c6f4847285e" group-title="[ IN ] TAMIL : 2", One Hollywood HD
-rtmp://1cloud.digital:1935/onetv/onehollywood
+#EXTINF:-1 tvg-id="DramaSangat.my" ch-number="111" group-title="" tvg-logo="https://res.cloudinary.com/dcpdjee3i/image/upload/v1775641753/Drama_Sangat_2024_logo.svg_stb7gg.png",111 Drama Sangat
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
+https://da.gd/dramasgtt
 
-#EXTINF:-1 tvg-logo="http://nammaoorutv.com/dashboard/upicons/Rasi Classic HD-2 (1).png" group-title="[ IN ] TAMIL : 2",Rasi Classic
-http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bNwL59h/Picsart-23-05-28-13-42-28-528.jpg" group-title="[ IN ] TAMIL : 2", Bala TV
-https://s1.tamilstreams.in/balatv/balatv/index.m3u8
 
-TAMIL COMEDY -----------------------
 
-#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL : 2",IBC Pagadi
-https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
 
+###riaprimacitra####
 
 
-TAMIL MOVIE -----------------------
-[ IN ] TAMIL : 3
+#EXTINF:-1 tvg-id="AstroRia" ch-number="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="",104 Astro Ria FHD (Backup)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
+#https://da.gd/riar
 
 
 
-#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL : 3",KalaiCinema
-https://singamcloud.in/kalai/kalaicinema/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL : 3",Rasi Movies
-http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8
+#EXTINF:-1 tvg-id="AstroPrima"  ch-number="105" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="",105 Astro Prima FHD (Backup)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
+#https://da.gd/primar
 
-#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL : 3",Rasi Hollywood
-http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL : 3",Rasi Tamil
-http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/index.m3u8
+#$$$$
 
-#EXTINF:-1 tvg-logo="https://cutt.ly/ZuLLW" group-title="[ IN ] TAMIL : 3",Rasi TV
-http://rasinetworks.in:1935/rasitv/rasitv.stream_aac/index.m3u8
 
-#EXTINF:-1 tvg-id="jayamax.in" tvg-name="Jaya Max" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_Max.png" group-title=""[ IN ] TAMIL : 3",Jaya Max
-http://watchindia.net:8880/live/varghesekunju62/308678sher/852.ts
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+#EXTINF:-1 tvg-id="AstroRia" ch-number="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="",104 Astro Ria FHD (Backup)
+#https://isurl.cc/Riaaaa
 
-#EXTINF:-1 tvg-id="jayamovies.in" tvg-name="Jaya Movie" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_Movie.png" group-title=""[ IN ] TAMIL : 3",Jaya Movie
-http://watchindia.net:8880/live/varghesekunju62/308678sher/849.ts
 
-#EXTINF:-1 tvg-id="jayaplus.in" tvg-name="Jaya Plus" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_Plus.png" group-title=""[ IN ] TAMIL : 3",Jaya Plus
-http://watchindia.net:8880/live/varghesekunju62/308678sher/850.ts
 
-#EXTINF:-1 tvg-id="jaya.in" tvg-name="Jaya TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_TV_HD.png" group-title=""[ IN ] TAMIL : 3",Jaya TV HD
-http://watchindia.net:8880/live/varghesekunju62/308678sher/851.ts
 
-PHOENIX CREATIONS  -------------------------
-[ IN ] TAMIL : 4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GMmfdHz/Jenifertv.png" group-title="[ IN ] TAMIL : 4",JENIFER TVHD
-http://jenifertv.phoenixcreations.online:1935/live/jenifertv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://hellophoenix.online/phoenixentertainment/001phoenixtv/admin/img/tvchannels/avathar1688882419.png" group-title="[ IN ] TAMIL : 4",Cinematheater24 TV
-http://cinematheater24.phoenixcreations.online:1935/cinematheater24/cinematheater24/chunklist_w1243229841.m3u8
+#EXTINF:-1 tvg-id="AstroPrima"  ch-number="105" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="",105 Astro Prima FHD (Backup)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140 Mobile Safari/537.36
+#https://isurl.cc/qrSZH
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/N6D59CkSb75w9Z2WOOo_bwclyXXVs6U2FAmFD4VS8-Np6eY5BaT8ebMqoKFEGcerbkav=w240-h480-rw" group-title="[ IN ] TAMIL : 4",SS TV  
-http://sstv.phoenixcreations.online:1935/sstv/sstv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YkGh2hG/APStv.png" group-title="[ IN ] TAMIL : 4", APS TV
-http://apstv.phoenixcreations.online:1935/apstv/apstv/chunklist_w1163481813.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroCitra" ch-number="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="",108 Astro Citra HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTVLCOPT:network-caching=8000
+#https://isurl.cc/ZRlId
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TcdKcfZ/MSMadhantv.png" group-title="[ IN ] TAMIL : 4", MSMadhan TV
-http://msmadhantv.phoenixcreations.online:1935/msmadhantv/msmadhantv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mXYm9bq/Jayamtv.png" group-title="[ IN ] TAMIL : 4", Jayam TV
-https://live.sscloud7.com/hls/jayamtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YdgsDHt/Suriyantv.png" group-title="[ IN ] TAMIL : 4",SURIYAN TV HD 
-https://stream.sscloud7.com/hls/suriyantv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroBoo" ch-number="400" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",400 BOO
+#https://l-ry.me/XAgab
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mJKHqvP/Subashtv.png" group-title="[ IN ] TAMIL : 4",Subash TV
-https://1cloud.digital/subashtv/subashhd.m3u8
 
-#EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/omtv.png" group-title="[ IN ] TAMIL : 4", OM Tamil TV
-http://omtv.phoenixcreations.online:1935/live/omtv/playlist.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="AstroCeria" ch-number="611"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-logo="" group-title="",611 Ceria
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
+#KODIPROP:inputstream.adaptive.license_key=337ef92bfeeb4b599248841cc916ce24:a31f174c1abe17c2b08fb94dd521283c
+#https://l-ry.me/mnxbn|X-Forwarded-For=180.72.32.0
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XxKYn1T/Mithratv.png" group-title="[ IN ] TAMIL : 4", Mithra TV
-http://mithratv.phoenixcreations.online:1935/mithratv/mithratv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kcZyDMG/rktv.png" group-title="[ IN ] TAMIL : 4",RK TV 
-https://sscloud7.com/hls/rktv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JRCgRXG/Sky-Mediatv.png" group-title="[ IN ] TAMIL : 4",Sky media TV
-http://skymedia.phoenixcreations.online:1935/live/skymedia/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="AstroArenaBola"  ch-number="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="",803 Astro Arena Bola 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
+https://isurl.cc/Bola1
+https://l-ry.me/CxOkd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vJPbpFQ/Raghultv.png" group-title="[ IN ] TAMIL : 4",RAGHUL TV
-http://raghultv.phoenixcreations.online:1935/live/raghultv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vZ18yiS9gOenA4opyOQR00F-Zfkf2gYJSVEUPSOPrl8J5JzT1Pl-Wdss0KD2sBlfo08=w240-h480-rw" group-title="[ IN ] TAMIL : 4", PHEONIX HD 
-http://server1.phoenixcreations.online:1935/live/phoenixtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/60G99hb/Aadhavantamil.png" group-title="[ IN ] TAMIL : 4", Aadhavan TV
-http://aadhavantamiltv.phoenixcreations.online:1935/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jnc9JbZ/Josetv.png" group-title="[ IN ] TAMIL : 4",Jose TV
-http://josetv.phoenixcreations.online:1935/live/josetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://hellophoenix.online/phoenixentertainment/001phoenixtv/admin/img/tvchannels/avathar1689188635.png" group-title="[ IN ] TAMIL : 4",Ayya TVHD
-http://ayyatv.phoenixcreations.online:1935/live/ayyatv/chunklist_w48739751.m3u8
 
-https://1cloud.digital/skytv/skytv.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
+#EXTINF:-1 tvg-id="AstroArenaBola2"  ch-number="804" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="",804 Astro Arena Bola 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://isurl.cc/Bola2
+https://l-ry.me/oqiPb
 
-https://delta31tatasky.akamaized.net/out/i/4085.mpd
 
-https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_876/output/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://hellophoenix.online/phoenixentertainment/001phoenixtv/admin/img/tvchannels/avathar1689188635.png" group-title="[ IN ] TAMIL : 4",test TVHD
-https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_876/output/manifest.mpd
-<noscript>
-<script type="text/javascript">(function(){window['__CF$cv$params']={r:'71e279c4799f4ca7',m:'rRvjkdTqUzsA72dNMgVPBdmi8eFUUm0TaezDWTdg6Ss-1655706834-0-AWCILmLNi01muIBGoiW/eIgjUgIiA0mlVcDCBeWOiS6HjYY4b9h5WfDUj5k8DIkmGvdWqyH0Sgii5MN1+aXR22yBvl/Il2e+D2St8TU4HiyluIq9TSx5prk+N9jl8tt+hw==',s:[0x373f4008d3,0x39f162e0f8],u:'/cdn-cgi/challenge-platform/h/g'}})();</script>
 
 
 
 
 
+
+
+
+#########
+
+
+
+
+ 
+
+
+
+
+
+https://satoshi-cors.herokuapp.com/
+
+https://cors-buster.fly.dev/
+https://cors-proxy.cooks.fyi/
+
+
+####
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="AstroSensasiHD.sg" ch-number="110" group-title="" tvg-logo="https://res.cloudinary.com/dcpdjee3i/image/upload/v1760755068/Astro_Sensasi__Dec_2024_eatdxt.png",110 Astro Sensasi HD
+https://rd1.smt123.cc.cd/smtrust.php?path=/smt/2750
+
+
+
+####
+
+
+
+
+#EXTINF:-1 tvg-id="AstroRania" ch-number="112" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="",112 Rania
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
+https://da.gd/raniaa
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="AstroAura" ch-number="113" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="",113 Aura
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
+https://da.gd/auraa
+
+
+
+
+#EXTINF:-1 tvg-id="120" ch-number="120" group-title="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/07A79742-0FA2-4DD8-8F98-929157AE96DF/0-16x9.png?width=530",120 Degup
+#https://raw.githubusercontent.com/mrabon78-ui/K/refs/heads/main/Degup.m3u
+
+#EXTINF:-1 tvg-id="" ch-number="123" tvg-name="" tvg-logo="https://res.cloudinary.com/dcpdjee3i/image/upload/v1759309786/Awesome_TV_Malaysia_rvqjoe.png" group-title="",123 Awesome TV
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
+https://da.gd/awesome
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="AstroBoo" ch-number="400" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",400 BOO
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
+https://da.gd/boo
+
+
+
+
+#EXTINF:-1 tvg-id="AstroCeria" ch-number="611"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-logo="" group-title="",611 Ceria
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
+https://da.gd/ceriastr
+
+
+
+#####bola
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="AstroArenaBola"  ch-number="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="",803 Astro Arena Bola (Backup)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
+https://isurl.cc/avsIf
+https://da.gd/Bolarr1
+
+
+
+
+
+#EXTINF:-1 tvg-id="AstroArenaBola2"  ch-number="804" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="",804 Astro Arena Bola 2 (Backup)
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
+https://isurl.cc/OqkJE
+https://da.gd/Bolarr2
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+#EXTINF:-1 tvg-id="AstroPremierLeague" ch-number="811"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="",811 Astro Premier League
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
+https://da.gd/epll
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="AstroPremierLeague2" ch-number="812"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="",812 Astro Premier League 2
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
+https://da.gd/epll2
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="HubSports1HD.sg" ch-number="815"  tvg-logo="https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png" group-title="",815 HUBSPORTS 1 (Badminton)
+#https://da.gd/hs1
+
+
+
+#EXTINF:-1 tvg-id="AstroBadminton"  ch-number="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" group-title="",815 Astro Badminton
+#EXTVLCOPT:http-user-agent=okhttp/4.9.0
+https://da.gd/Badmintonn
+https://nimble.li/wdboey7m
+
+
+
+
+#EXTINF:-1 tvg-id="221" ch-number="841" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="",841 HUBPREMIER 1
+#https://da.gd/prehub1
+
+
+
+
+#EXTINF:-1 tvg-id="232" ch-number="842" tvg-logo="https://raw.githubusercontent.com/rahul979854/winner/refs/heads/main/hubpremr24k.png" group-title="",842 HUBPREMIER 2
+#https://da.gd/prehub2
+
+
+
+#EXTINF:-1 tvg-id="223" ch-number="843" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="",843 HUBPREMIER 3
+#https://da.gd/prehub3
+
+
+
+#EXTINF:-1 tvg-id="tnt-sports-1-hd" ch-number="851" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-1-uk.png",851 TNT SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-id="tnt-sports-2-hd" ch-number="852" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-2-uk.png",852 TNT SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-id="tnt-sports-3-hd" ch-number="853" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-3-uk.png",853 TNT SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-id="tnt-sports-4-hd" ch-number="854" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-4-uk.png",854 TNT SPORTS 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+
+
+#####sport starhub####
+
+
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b08559f2efb4075b6b31666b412932d:f574a17ae1805bf390b58d2bf814c062
+#EXTINF:-1 tvg-id="AstroWarnaHD.sg" ch-number="107" tvg-logo="https://res.cloudinary.com/dcpdjee3i/image/upload/v1771573936/Astro_Warna__Dec_2024_crue1u.png" group-title="",107 Astro Warna
+https://cors-proxy.cooks.fyi/https://ucdn.starhubgo.com/bpk-tv/Astro_warna_new/output/manifest.mpd|X-Forwarded-For=49.245.32.0
+
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
+#EXTINF:-1 tvg-id="AstroSensasiHD.sg" ch-number="110" group-title="" tvg-logo="https://res.cloudinary.com/dcpdjee3i/image/upload/v1760755068/Astro_Sensasi__Dec_2024_eatdxt.png",110 Astro Sensasi HD
+#https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd|X-Forwarded-For=49.245.32.0
+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156
+#EXTINF:-1 tvg-id="HubSports1HD.sg" ch-number="808"  tvg-logo="https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png" group-title="",808 HUB SPORTS 1 (Badminton)
+#https://ucdn.starhubgo.com/bpk-tv/HubSports1HDnew1/output/manifest.mpd|X-Forwarded-For=49.245.32.0
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+#EXTINF:-1 tvg-id="HubPremier1.sg" ch-number="825" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="",825 HUB PREMIER 1
+#https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd|X-Forwarded-For=49.245.32.0
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="HubPremier2(HD).sg" ch-number="826" tvg-logo="https://raw.githubusercontent.com/rahul979854/winner/refs/heads/main/hubpremr24k.png" group-title="",826 HUB PREMIER 2 4K
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5d217f06033494f8c536322324231eb:b6c80055ee20cf222d792ce702b3644a
+#https://ucdn.starhubgo.com/bpk-tv/HubPremier2_4K/output/manifest.mpd|X-Forwarded-For=49.245.32.0
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
+#EXTINF:-1 tvg-id="HubPremier3.sg" ch-number="827" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="",827 HUB PREMIER 3
+#https://ucdn.starhubgo.com/bpk-tv/HubPremier3/output/manifest.mpd|X-Forwarded-For=49.245.32.0
+
+
+
+
+
+
+##### sukan bola ##
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="803.astro"  ch-number="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="",803 Astro Arena Bola (Backup)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
+#https://da.gd/bolaa|X-Forwarded-For=180.72.32.0
+
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
+#EXTINF:-1 tvg-id="804.astro"  ch-number="804" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="",804 Astro Arena Bola 2 (Backup)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#https://da.gd/bolaa2|X-Forwarded-For=180.72.32.0
+
+
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="815.astro"  ch-number="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" group-title="",815 Astro Badminton
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"g3KLRwGavbs3qjbtXylRvQ","kid":"b/DgQNVE7D8CJDhlmQ8MEA"}],"type":"temporary"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.00 
